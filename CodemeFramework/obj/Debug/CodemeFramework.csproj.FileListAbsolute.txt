@@ -1,0 +1,10 @@
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\bin\Debug\CodemeFramework.exe.config
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\obj\Debug\CodemeFramework.csprojResolveAssemblyReference.cache
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\obj\Debug\CodemeFramework.Form1.resources
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\obj\Debug\CodemeFramework.Properties.Resources.resources
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\obj\Debug\CodemeFramework.csproj.GenerateResource.Cache
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\bin\Debug\CodemeFramework.exe
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\bin\Debug\CodemeFramework.pdb
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\obj\Debug\CodemeFramework.exe
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\obj\Debug\CodemeFramework.pdb
+D:\jMatter\Learn\C#\Framework\Codeme\CodemeFramework\CodemeFramework\obj\Debug\CodemeFramework.forms.Form2.resources
